@@ -11,7 +11,7 @@ _Even I am dissappointed why I didnt knew this earlier. Better Late than never ;
 
 [Link to Reso Coder Bloc Playlist](https://www.youtube.com/playlist?list=PLB6lc7nQ1n4jCBkrirvVGr5b8rC95VAQ5)
 
-### Index
+## Index
 
 1. Bloc_Intialize
 - So, you all may have developed Flutter Apps and started with increment app(the boilerplate intial code) before developing.

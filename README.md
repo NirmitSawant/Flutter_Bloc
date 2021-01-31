@@ -16,6 +16,7 @@ _Even I am dissappointed why I didnt knew this earlier. Better Late than never ;
 1. Bloc_Intialize
 - So, you all may have developed Flutter Apps and started with increment app(the boilerplate intial code) before developing.
 In Bloc_Intialize, we implement the same functionality using Bloc Techniques! The code also includes decrementing counter.
+The Bloc can be made more easier using this package [Block Library](https://pub.dev/packages/flutter_bloc).
 
 - _What did I add?_
 I have tweaked the code make the counter stop at 0.

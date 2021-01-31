@@ -2,9 +2,10 @@
 
 Bloc(Business Logic Components) is a better way to maitain and traverse through code. It makes sure that we abide to development and UI seperately.
 
-## What will be thi repo help in?
+## How will repo help you learn in?
 
-This will be a collection of previously worked up code using Bloc techniques.
+This will be a collection of previously worked up code using Bloc techniques. So, you can start making your code a better place to live.
+_Even I am dissappointed why I didnt knew this earlier. Better Late than never ;')_
 
 ## Where did I learn this?
 

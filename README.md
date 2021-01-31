@@ -1,16 +1,23 @@
-# bloc_intialize
+# Flutter_Bloc
 
-A new Flutter project.
+Bloc(Business Logic Components) is a better way to maitain and traverse through code. It makes sure that we abide to development and UI seperately.
 
-## Getting Started
+## What will be thi repo help in?
 
-This project is a starting point for a Flutter application.
+This will be a collection of previously worked up code using Bloc techniques.
 
-A few resources to get you started if this is your first Flutter project:
+## Where did I learn this?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Link to Reso Coder Bloc Playlist](https://www.youtube.com/playlist?list=PLB6lc7nQ1n4jCBkrirvVGr5b8rC95VAQ5)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Index
+
+1) Bloc_Intialize
+So, you all have developed Flutter Apps and started with increment app before developing. The code shows us to implement using Bloc Techniques!
+It also includes decrementing counter.
+_What did I add?_
+I have tweaked the code make the counter stop at 0.
+
+2) _Coming Soon...._
+
+### To learn from the repo, do follow the branches in the order!  

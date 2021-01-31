@@ -20,7 +20,6 @@ The Bloc can be made more easier using this package [Block Library](https://pub.
 
 - _What did I add?_
 I have tweaked the code make the counter stop at 0.
-2. _Coming Soon...._
 
 ### To learn from the repo, do follow the branches in the order as they are in the index!
   
